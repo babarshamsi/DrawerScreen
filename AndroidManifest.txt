@@ -1,0 +1,14 @@
+
+
+
+
+<activity
+            android:name=".BaseActivities.DrawerBaseActivity"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:screenOrientation="portrait"/>
+
+
+<activity
+            android:name=".Activities.AboutAppActivity"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:screenOrientation="portrait"/>
